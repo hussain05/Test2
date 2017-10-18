@@ -1,0 +1,34 @@
+
+2 aspects:- 1. Using some programming tool like UFT or Selenium
+2. Process improvement + Streamlining of current process
+as we all are familiar that we have an in-house automation team that works on identifying processes which can be automated.
+Innomate- Initiative where people can pitch in ideas.
+
+
+1. Automation using a programming tool:
+a. Feasibility stage: Everything starts with an idea. 	Identification of a workflow on the basis of following parameters:- How static it is (Apps with static pic would be a good candidate for automation), How often the business rules change (complex calculations which remain unchanged can be picked up to rope in precision and save time), Extent of redundancy(Simple and straight forward navigations for instance filling up a KYC form on web can be picked up)
+prime step 
+complexity of the idea doesnt matter
+a simplest idea can also do wonders and save a lot time and efforts
+b. Identification of tool: Now you have identified some workflows, next step is to understand what tool would be suitable for the job. 
+Familiar ones: Selenium, UFT, Cucumber
+
+FInalizing a tool is dependant on the following parameters:
+1. Type of application: Web, Standalone (desktop)
+2. Programming langauge you are comfortable with- vb, java
+
+Beahvior and stability of app wrt the tool, how the app interacts with the tool
+
+3. Coding & TESTING***- yes u need to test something which is designed to test something!!
+Maintenance!
+4. Things to keep in mind:-
+- Should be reusable and maintenable: no sense if post production, more efforts are put in ammending the code than the manual process itself
+- Minimal manual intervention
+- Input + Reporting on the lines of manual process
+- Parameterize
+
+ROBOTICS!! (Macro)
+
+Process improvement:Lean management seeks to eliminate any waste of time, effort or money by identifying each step in a business process and then revising or cutting out steps that do not create value. The philosophy has its roots in manufacturing. 
+Agile.
+Over documenting, agile manifesto
