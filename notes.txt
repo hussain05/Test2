@@ -1,9 +1,0 @@
-use 32/64 bit of 2.53.0 as well as 3.0
-ignoreProtectedModeSettings
-regedit
-Trusted sites
-move focus from current ie
-initial browser url
-run simple code for testng
-
-http://www.rondebruin.nl/win/s1/outlook/mail.htm
